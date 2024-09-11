@@ -26,7 +26,7 @@ useSeoMeta({
   twitterCard: 'summary_large_image',
   // Feel free to change this image with your own once deployed to NuxtHub
   ogImage: '/og-image.jpeg',
-  twitterImage: '/og-image.jpeg',
+  twitterImage: '/twitter-image.jpeg',
 })
 </script>
 
