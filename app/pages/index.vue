@@ -25,8 +25,8 @@ useSeoMeta({
   ogDescription: `Discover ${user.name} recent pull requests on GitHub.`,
   twitterCard: 'summary_large_image',
   // Feel free to change this image with your own once deployed to NuxtHub
-  ogImage: '/og-image.jpeg',
-  twitterImage: '/twitter-image.jpeg',
+  ogImage: 'https://hrynevych.dev/og-image.jpeg',
+  twitterImage: 'https://hrynevych.dev/twitter-image.jpeg',
 })
 </script>
 
